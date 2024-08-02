@@ -1,0 +1,26 @@
+User story
+//Home Page*
+1.top of the page nav bar contains logo, brand name,Home,about,service,contact navs and login button
+2.backgroung img which is fixed on the image greetings message
+3.about section basic detais about the bloger 
+4.services section list of services with img 
+5.contact form with validations 
+6.footer with copy rights, logo,social media accounts.
+//user*
+1.login (forget password option)
+2.blogs view page which the blogs assigned by admin(list of titles will be displayed what ever the blog user want to read he can click on the title then he can view content for particular blog)
+3.he can export blogs by using export pdf option
+4.if the user have any queries he can fill contact form 
+5.feedback and thank you page(thank you page which is redirect to feedback form there user send there feedbacks)
+6.finally user will logout
+//admin*
+1.login (forget password option)
+2.blog board where he can write blogs 
+3.through nav bars registration can be done if admin want to register any new user after registering (mail, password will be sent to respective registered user mail. For providing login credentials for the user)
+4.admin can update his profile by clicking profile nav
+5.after writing blogs admin will redirect to blogs assign page there admin can assign particular blog to particular user only assigned user can view those blogs
+6.next admin will redirect to view page where admin can view blog title and assigned user name.
+7.there admin can download the data in the form of excel by clicking export excel.
+8.admin can view the feedback by clicking the view feedbacks nav
+9.admin can view the all the registered candidates both admin and users list.
+
